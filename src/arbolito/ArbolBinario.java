@@ -1,5 +1,5 @@
 package arbolito;
-
+//prueba
 public class ArbolBinario {
 	
 	private NodoBinario raiz;
